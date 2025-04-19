@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Ocean.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:MoveSpawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Actions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:MoveSpawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Actions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A77EB07-E46D-49E8-B468-C38BBBC1DDBC}|SFML_test.vcxproj|solutionrelative:Ocean.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveSpawn.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.cpp",
+              "RelativeDocumentMoniker": "MoveSpawn.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.cpp",
+              "RelativeToolTip": "MoveSpawn.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T18:08:14.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveSpawn.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.h",
+              "RelativeDocumentMoniker": "MoveSpawn.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\MoveSpawn.h",
+              "RelativeToolTip": "MoveSpawn.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T18:08:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actions.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.cpp",
+              "RelativeDocumentMoniker": "Actions.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.cpp",
+              "RelativeToolTip": "Actions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T16:03:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actions.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.h",
+              "RelativeDocumentMoniker": "Actions.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Actions.h",
+              "RelativeToolTip": "Actions.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T08:10:32.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Objects.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.cpp",
+              "RelativeDocumentMoniker": "Objects.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.cpp",
+              "RelativeToolTip": "Objects.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T15:46:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Objects.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.h",
+              "RelativeDocumentMoniker": "Objects.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Objects.h",
+              "RelativeToolTip": "Objects.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T08:00:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ocean.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.cpp",
+              "RelativeDocumentMoniker": "Ocean.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.cpp",
+              "RelativeToolTip": "Ocean.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T15:40:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ocean.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.h",
+              "RelativeDocumentMoniker": "Ocean.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Ocean.h",
+              "RelativeToolTip": "Ocean.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T08:11:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T15:30:30.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T08:12:39.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Point.h",
+              "RelativeDocumentMoniker": "Point.h",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Point.h",
+              "RelativeToolTip": "Point.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T15:17:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source2.cpp",
+              "DocumentMoniker": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Source2.cpp",
+              "RelativeDocumentMoniker": "Source2.cpp",
+              "ToolTip": "C:\\Users\\xxeeg\\source\\repos\\SFML_test\\Source2.cpp",
+              "RelativeToolTip": "Source2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T14:11:03.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
